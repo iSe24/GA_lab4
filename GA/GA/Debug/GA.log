@@ -1,0 +1,7 @@
+﻿  GA.cpp
+c:\users\влад\documents\visual studio 2017\projects\ga\ga\ga.cpp(116): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\влад\documents\visual studio 2017\projects\ga\ga\ga.cpp(129): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+c:\users\влад\documents\visual studio 2017\projects\ga\ga\ga.cpp(94): warning C4101: son2: неиспользованная локальная переменная
+c:\users\влад\documents\visual studio 2017\projects\ga\ga\ga.cpp(93): warning C4101: son1: неиспользованная локальная переменная
+  GA.vcxproj -> C:\Users\Влад\documents\visual studio 2017\Projects\GA\Debug\GA.exe
+  GA.vcxproj -> C:\Users\Влад\documents\visual studio 2017\Projects\GA\Debug\GA.pdb (Partial PDB)
